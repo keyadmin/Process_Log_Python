@@ -7,4 +7,4 @@ python ddos.py
 
 #result
 
-![alt text](https://s3-ap-southeast-1.amazonaws.com/kipalog.com/lsp948o16a_ddos.png)
+![alt text](https://s3-ap-southeast-1.amazonaws.com/kipalog.com/2xwovj4510_ddos1.png)
